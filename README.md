@@ -11,7 +11,7 @@ npm run build
 npm run start 
 
 
-# After running the application. please hit below url for the results
+# After running the application please hit below url for the results
 http://localhost:8000/report
 
 
